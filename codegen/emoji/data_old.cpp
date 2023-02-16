@@ -13,7 +13,7 @@ InputData GetDataOld1() {
 	return InputData{
 		.colored = {
  { 0xD83EDD32U, 0xD83CDFFBU, },
- { 0xD83DDC50U, 0xD83CDFFBU, },
+
  { 0xD83DDE4CU, 0xD83CDFFBU, },
  { 0xD83DDC4FU, 0xD83CDFFBU, },
  { 0xD83DDC4DU, 0xD83CDFFBU, },
@@ -1793,7 +1793,7 @@ InputData GetDataOld1() {
 InputData GetDataOld2() {
 	return InputData{
 		.colored = {
- { 0xD83DDC50U, 0xD83CDFFBU, },
+
  { 0xD83DDE4CU, 0xD83CDFFBU, },
  { 0xD83DDC4FU, 0xD83CDFFBU, },
  { 0xD83DDE4FU, 0xD83CDFFBU, },
